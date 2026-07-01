@@ -6,18 +6,18 @@ export const facebookUrl = "https://www.facebook.com/61583726341409";
 export const site = {
   name: "Treedom",
   eyebrow: "Jonesborough, Tennessee",
-  title: "A treehouse stay built for freedom to explore.",
+  title: "A treehouse getaway made for freedom, fun, and quiet nights in the trees.",
   shortTitle: "Treedom Treehouse",
   description:
-    "A custom treehouse by The Treehouse Guys in historic Jonesborough, Tennessee, with a private hot tub, arcade, firepit, disc golf, and 20+ acres to explore.",
+    "A custom treehouse stay by The Treehouse Guys near historic Jonesborough, Tennessee, with a private hot tub, arcade, firepit, disc golf, and 20+ acres to explore.",
   location: "Jonesborough, Tennessee",
   host: "Lee",
   bookingUrl,
   facebookUrl,
   heroImage:
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/3bc870b5-7bc9-4900-99e2-2a21503a8e02.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/3bc870b5-7bc9-4900-99e2-2a21503a8e02.jpeg?im_w=1200",
   socialPreview:
-    "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/347b4cd8-71c9-45a5-b916-6068bb921368.jpeg?im_w=720",
+    "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/347b4cd8-71c9-45a5-b916-6068bb921368.jpeg?im_w=1200",
 };
 
 export const navItems = [
@@ -32,73 +32,74 @@ export const quickFacts = [
   "2 bedrooms",
   "4 beds",
   "1 bath",
-  "Hot tub",
-  "Private disc golf",
+  "Private hot tub",
+  "3-hole disc golf",
 ];
 
 export const heroStats = [
-  { value: "5.0", label: "Airbnb rating" },
-  { value: "20+", label: "acres to explore" },
+  { value: "5.0", label: "guest rating" },
+  { value: "20+", label: "acres to roam" },
   { value: "10 min", label: "to downtown Jonesborough" },
+  { value: "Treehouse", label: "custom-built stay" },
 ];
 
 export const photos = [
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/3bc870b5-7bc9-4900-99e2-2a21503a8e02.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/3bc870b5-7bc9-4900-99e2-2a21503a8e02.jpeg?im_w=1200",
     alt: "Treedom treehouse with wraparound deck and forest setting",
-    title: "Treehouse Exterior",
-    text: "Arrive to a custom treehouse tucked into the trees with decks, stairs, and room to breathe.",
+    title: "Your Cabin in the Trees",
+    text: "A raised treehouse stay tucked into the woods with decks, stairs, and room to breathe.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/347b4cd8-71c9-45a5-b916-6068bb921368.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/347b4cd8-71c9-45a5-b916-6068bb921368.jpeg?im_w=1200",
     alt: "Wood sided treehouse raised above the landscape",
-    title: "Cabin In The Trees",
-    text: "Wood siding, raised supports, and a quiet setting give the stay its one-of-a-kind feel.",
+    title: "Built Above the Ground",
+    text: "Warm wood, tall supports, and a one-of-a-kind treehouse setting near Tennessee’s oldest town.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/374ccbd0-f496-4358-9c22-004190d2416c.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/374ccbd0-f496-4358-9c22-004190d2416c.jpeg?im_w=1200",
     alt: "Private hot tub on the deck with wooded views",
-    title: "Private Hot Tub",
-    text: "Soak on the deck while the trees and landscape wrap around the cabin.",
+    title: "Hot Tub Deck",
+    text: "Soak outside, listen to the trees, and end the day with a quiet view from the deck.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/b22c57b2-d5bf-453f-9797-66e98d13327c.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/b22c57b2-d5bf-453f-9797-66e98d13327c.jpeg?im_w=1200",
     alt: "Arcade machine inside the treehouse",
-    title: "Arcade Corner",
-    text: "An arcade system, board games, and a 60-inch TV give everyone a place to unwind inside.",
+    title: "Arcade Nights",
+    text: "Stay in, play a game, watch a movie, or settle in after a day around Jonesborough.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/00e47fdd-a34b-44db-a6c1-a3de0d063b20.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/00e47fdd-a34b-44db-a6c1-a3de0d063b20.jpeg?im_w=1200",
     alt: "Stone walkway, slide, and deck leading to the treehouse",
     title: "Outdoor Details",
-    text: "Stone paths, natural railing, a slide, and wooded spaces make the outside feel playful and relaxed.",
+    text: "Stone paths, a slide, wooded edges, and playful little touches make the outside part of the stay.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/15f5f648-8db3-49f7-8bc0-394907f04c38.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/15f5f648-8db3-49f7-8bc0-394907f04c38.jpeg?im_w=1200",
     alt: "King bed tucked under warm wood ceiling in the treehouse",
     title: "King Bedroom",
-    text: "The king bedroom sits under warm wood with windows around the sleeping space.",
+    text: "A warm sleeping space with wood ceilings, windows, and a quiet cabin feel.",
   },
   {
-    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/a3f45f01-4739-4aa0-b3b1-d39981d01b36.jpeg?im_w=720",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-1690115204596224712/original/a3f45f01-4739-4aa0-b3b1-d39981d01b36.jpeg?im_w=1200",
     alt: "Twin bunk room beside arcade system inside Treedom",
-    title: "Bunk Room",
-    text: "A twin bed and twin bunk beds make room for kids, friends, or family traveling together.",
+    title: "Room for the Crew",
+    text: "A second sleeping space makes Treedom easy for kids, friends, or a small family trip.",
   },
 ];
 
 export const stayHighlights = [
   {
-    title: "Custom treehouse stay",
-    text: "Built by The Treehouse Guys from the DIY Network, Treedom brings together handcrafted details, a patriotic spirit, raised decks, and a cabin-in-the-trees setting.",
+    title: "Sleep in a real treehouse",
+    text: "Treedom brings together handcrafted wood details, raised decks, patriotic touches, and a cabin-in-the-trees setting that feels far from ordinary.",
   },
   {
-    title: "Hot tub, firepit, and disc golf",
-    text: "Spend the day outside with the private 3-hole disc golf course, a grand firepit with firewood, and a hot tub overlooking the landscape.",
+    title: "Soak, play, and gather outside",
+    text: "Enjoy the private hot tub, grand firepit with firewood, gas grill, 3-hole disc golf course, and space to wander around the property.",
   },
   {
-    title: "Easy indoor comfort",
-    text: "Settle in with high-speed Wi-Fi, a 60-inch TV, board games, an arcade system, stocked kitchen supplies, and coffee for slow mornings.",
+    title: "Easy comfort after a day out",
+    text: "High-speed Wi-Fi, a 60-inch TV, arcade system, board games, coffee options, kitchen supplies, linens, towels, and self check-in keep the stay simple.",
   },
 ];
 
@@ -130,16 +131,16 @@ export const sleep = [
 
 export const outdoorExperiences = [
   {
-    title: "Explore the property",
-    text: "Guests have access to 20+ acres with hills, grasslands, a stream, a pond, disc golf, and wooded areas that are not fenced off.",
+    title: "Roam the property",
+    text: "Guests can explore 20+ acres with hills, grasslands, a stream, a pond, wooded spaces, and open areas that make the stay feel adventurous.",
   },
   {
-    title: "Farm moments",
-    text: "With the hosts nearby on the 27-acre compound, guests may get the chance to walk the farm, feed the chickens, or talk through local things to do.",
+    title: "Farm-style moments",
+    text: "With the hosts nearby on the 27-acre compound, guests may be able to walk the farm, feed the chickens, or ask about local favorites.",
   },
   {
-    title: "Quiet and secluded",
-    text: "The owners live onsite, but the treehouse is set up to feel private, peaceful, and tucked away in the trees.",
+    title: "Secluded, but not stranded",
+    text: "The treehouse feels tucked away and private, while historic downtown Jonesborough, golf, restaurants, and local stops are still easy to reach.",
   },
 ];
 
@@ -147,17 +148,17 @@ export const nearby = [
   {
     title: "Historic downtown Jonesborough",
     time: "10 minutes",
-    text: "Spend part of the day in Tennessee’s oldest town, then come back to the trees for a slow evening by the firepit.",
+    text: "Visit Tennessee’s oldest town for food, shops, local charm, and a slower downtown day before heading back to the trees.",
   },
   {
     title: "The Crossings Golf Club",
     time: "5 minutes",
-    text: "A nearby golf option for guests who want an easy round close to the treehouse.",
+    text: "Play a nearby round, then come back for hot tub time, a fire, or a relaxed evening at the treehouse.",
   },
   {
     title: "Mountain views",
-    time: "With host permission",
-    text: "Guests can ask about viewing the Appalachian mountain range from the northwest corner of the compound.",
+    time: "Ask your host",
+    text: "Guests can ask about seeing the Appalachian mountain range from the northwest corner of the compound.",
   },
 ];
 
@@ -190,14 +191,14 @@ export const houseRules = [
 export const pageCopy = {
   introTitle: "Wake up above the forest floor in historic Jonesborough.",
   introText:
-    "Treedom is a custom treehouse retreat designed for families, friends, couples, and anyone who wants a stay that feels different from a regular cabin. Spend time on the deck, play outside, soak in the hot tub, and enjoy a quiet place tucked into the trees.",
-  galleryTitle: "See the treehouse before you book.",
+    "Treedom is made for guests who want more than a regular cabin. Climb into the trees, spend slow mornings on the deck, play outside, soak at night, and enjoy a getaway with enough room for family, friends, or a quiet couple’s trip.",
+  galleryTitle: "Picture your treehouse stay before you arrive.",
   galleryText:
-    "Browse the decks, warm wood interiors, hot tub, arcade corner, sleeping spaces, and outdoor details that give Treedom its playful cabin-in-the-trees feel.",
-  reviewsTitle: "A 5-star start from guests.",
+    "See the raised decks, wooded setting, hot tub, warm bedrooms, arcade space, and outdoor details that give Treedom its playful cabin-in-the-trees feel.",
+  reviewsTitle: "Guests are already giving Treedom 5 stars.",
   reviewsText:
-    "Guests have rated Treedom highly for the stay itself, the location, the check-in experience, communication, cleanliness, and value.",
-  bookTitle: "Ready for a treehouse getaway?",
+    "Airbnb guests have rated the stay 5.0 overall, with strong marks for cleanliness, accuracy, check-in, communication, location, and value.",
+  bookTitle: "Ready to stay in the trees?",
   bookText:
-    "Choose your dates on Airbnb, check availability, and plan a stay with hot tub nights, disc golf, firepit time, and historic Jonesborough close by.",
+    "Check your dates on Airbnb and plan a Jonesborough getaway with hot tub nights, disc golf, firepit time, arcade games, and 20+ acres to explore.",
 };

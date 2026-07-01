@@ -1,26 +1,25 @@
-# Treedom Treehouse Demo
+# Treedom Treehouse
 
-A custom Next.js demo site for Treedom in Jonesborough, Tennessee.
+Next.js site for Treedom in Jonesborough, Tennessee.
 
-## Run local
+## Run locally
 
-```powershell
+```bash
 npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`.
+Open http://localhost:3000.
 
 ## Build
 
-```powershell
+```bash
 npm run build
 ```
 
 ## Notes
 
-- Content is centralized in `data/site.ts`.
-- Styling is controlled globally in `app/globals.css`.
-- The demo uses guest-facing copy only.
-- Booking CTAs point to the Airbnb listing.
-- Facebook CTAs point to the public Facebook page.
+- Styling is controlled from `app/globals.css`.
+- Site content is centralized in `data/site.ts`.
+- Booking links point to the Airbnb listing.
+- Facebook links point to the public Facebook page.

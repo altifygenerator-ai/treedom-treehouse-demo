@@ -8,7 +8,7 @@ export default function Header() {
         <span className="brand-mark">T</span>
         <span>
           <strong>{site.name}</strong>
-          <small>Jonesborough Treehouse</small>
+          <small>Treehouse getaway</small>
         </span>
       </Link>
       <nav className="nav-links" aria-label="Main navigation">
@@ -19,7 +19,7 @@ export default function Header() {
         ))}
       </nav>
       <a className="header-cta" href={bookingUrl} target="_blank" rel="noreferrer">
-        Check Dates
+        Book the Treehouse
       </a>
     </header>
   );

@@ -1,15 +1,12 @@
-import { hostDetails, ratings } from "@/data/site";
+import { hostDetails, pageCopy, ratings } from "@/data/site";
 
 export default function Reviews() {
   return (
-    <section className="section shell reviews-grid">
-      <div className="review-panel">
+    <section className="section shell reviews-wrap">
+      <div className="review-panel rating-panel">
         <p className="eyebrow">Guest ratings</p>
-        <h2>5.0 overall from Airbnb guests.</h2>
-        <p>
-          Guests have rated Treedom 5.0 overall, with 5.0 ratings shown for cleanliness, accuracy,
-          check-in, communication, location, and value.
-        </p>
+        <h2>{pageCopy.reviewsTitle}</h2>
+        <p>{pageCopy.reviewsText}</p>
         <div className="rating-grid">
           {ratings.map((rating) => (
             <div key={rating.label}>
@@ -23,7 +20,7 @@ export default function Reviews() {
         <p className="eyebrow">Your host</p>
         <h2>Hosted by Lee.</h2>
         <p>
-          Lee is listed as a Superhost with years of hosting experience, a strong guest rating, and quick response times.
+          Guests can settle in with self check-in, quick host communication, and local help nearby when they need it.
         </p>
         <div className="host-list">
           {hostDetails.map((item) => (
